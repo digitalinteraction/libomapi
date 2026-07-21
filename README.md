@@ -1,6 +1,20 @@
 # libomapi
 
-Open Movement C-based API "OMAPI", with bindings for .NET, Java, Node NAPI, Node FFI.
+Open Movement API library: *OMAPI*, natively:
+
+* [C language](src) (builds to a static, or dynamic library)
+
+...this repository includes language bindings for:
+
+* [C#/.NET](bindings/csharp)
+* [Java](bindings/java)
+* [JavaScript Node FFI](bindings/node-ffi) & [JavaScript Node NAPI](bindings/node-napi)
+* [Python](bindings/python-untested) (untested)
+* [Rust](bindings/rust-untested) (untested)
+
+...and there are external bindings for:
+
+* [R](https://axr.circadia-lab.uk/) (from [circadia-lab.uk](https://axr.circadia-lab.uk/))
 
 See also:
 
@@ -8,7 +22,7 @@ See also:
 * [AX Device Technical Documentation](https://github.com/digitalinteraction/openmovement/blob/master/Docs/ax3/ax3-technical.md)
 * [AX Research: Data Analysis](https://github.com/digitalinteraction/openmovement/blob/master/Docs/ax3/ax3-research.md#data-analysis)
 
-This repository has been split from various parts of the OpenMovement mono-repo, and some inter-library paths may need repairing.
+**Note:** This repository has been split from various parts of the OpenMovement mono-repo, and some inter-library paths may need repairing.
 
 <!--
 
