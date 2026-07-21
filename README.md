@@ -14,7 +14,7 @@ Open Movement API library: *OMAPI*, natively:
 
 ...and there are external bindings for:
 
-* [R](https://axr.circadia-lab.uk/) (from [circadia-lab.uk](https://axr.circadia-lab.uk/))
+* [R](https://axr.circadia-lab.uk/) (from [axR by Circadia](https://axr.circadia-lab.uk/))
 
 See also:
 
